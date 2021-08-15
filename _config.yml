@@ -1,21 +1,21 @@
 # Site settings
 title: Nilart Photography
-email: ""
+email: "photography@nilart.com"
 description: "Photo Journal"
 url: "http://www.nilart.com"
 baseurl: ""
 facebook_username: ""
 twitter_username: ""
-instagram_username: ""
+instagram_username: "gzafra"
 github_username:  ""
 deviantart_username: ""
-flickr_username: ""
+flickr_username: "nilartphoto"
 discus_shortname: ""
 share: true
 
 # Owner/author information
 owner:
-  name:   photorama
+  name:   nilart
   avatar: avatar.png
   favicon: favicon.ico
   info: photography website
@@ -34,7 +34,7 @@ comments :
 # Internal nav
 nav:
   - GALLERY: "http://www.nilart.com/gallery/"  
-  - JOURNAL: "http://www.nilart.com/journal/"
+  #- JOURNAL: "http://www.nilart.com/journal/"
   - ABOUT: "http://www.nilart.com/about/"
 
 # All translation keys
