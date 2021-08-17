@@ -4,13 +4,8 @@ email: "photography@nilart.com"
 description: "Photo Journal"
 url: "http://www.nilart.com"
 baseurl: ""
-facebook_username: ""
-twitter_username: ""
 instagram_username: "gzafra"
-github_username:  ""
-deviantart_username: ""
 flickr_username: "nilartphoto"
-discus_shortname: ""
 share: true
 
 # Owner/author information
@@ -18,7 +13,7 @@ owner:
   name:   nilart
   avatar: avatar.png
   favicon: favicon.ico
-  info: photography website
+  info: photography website nilart sony sonya7 sonya7iii alphashooters street
 
 # Settings for comments helper
 # Set 'provider' to the comment provider you want to use. (i.e.  Disqus, Intense Debate, livefyre, or Facebook Comments)

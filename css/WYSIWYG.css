@@ -36,10 +36,11 @@ h3 { font-weight: normal; font-size: 1.25em; margin: 0 0 .5em 0; line-height: 1.
 h4 { font-weight: normal; font-size: 1.15em; margin: 0 0 .5em 0; line-height: 1.4; }
 h5 { font-weight: bold; font-size: 1em; margin: 0 0 .5em 0; line-height: 1.4; }
 h6 { font-weight: bold; font-size: .8em; margin: 0 0 .5em 0; line-height: 1.4; }
-p { padding: 0 0 1.5em 0; line-height: 1.6; }
+p { padding: 0 0 1.5em 0; line-height: 1.6; text-shadow: 1px 1px 2px #00000085; }
 ul, ol { padding: 0; line-height: 1.6; list-style: disc; }
 ol { list-style: decimal; }
 strong, input, button, .button { font-weight: bold; }
+strong { text-shadow: 1px 1px 2px #00000085; }
 nav ul { list-style: none; }
 em { font-style: italic; } 
 a { color: #EA8E00; text-decoration: none; 
