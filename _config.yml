@@ -1,8 +1,8 @@
 # Site settings
-title: Nilart Photography
-email: "photography@nilart.com"
+title: G.Zafra Photography
+email: "photography@gzafra.com"
 description: "Photo Journal"
-url: "http://www.nilart.com"
+url: "https://photo.gzafra.com"
 baseurl: ""
 instagram_username: "gzafra"
 flickr_username: "nilartphoto"
@@ -13,7 +13,7 @@ owner:
   name:   nilart
   avatar: avatar.png
   favicon: favicon.ico
-  info: photography website nilart sony sonya7 sonya7iii alphashooters street
+  info: photography website nilart gzafra sony sonya7 sonya7iii alphashooters street street photographer
 
 # Settings for comments helper
 # Set 'provider' to the comment provider you want to use. (i.e.  Disqus, Intense Debate, livefyre, or Facebook Comments)
@@ -28,9 +28,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "http://www.nilart.com/gallery/"  
-  #- JOURNAL: "http://www.nilart.com/journal/"
-  - ABOUT: "http://www.nilart.com/about/"
+  - GALLERY: "https://photo.gzafra.com/gallery/"  
+  #- JOURNAL: "https://photo.gzafra.com/journal/"
+  - ABOUT: "https://photo.gzafra.com/about/"
 
 # All translation keys
 translations:
